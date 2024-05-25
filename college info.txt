@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+color:blue;
+text-align:center;
+}
+h2{
+color:red;
+text-align:center;
+}
+h3{
+color:green;
+text-align:center;
+}
+ul{
+color:yellow;
+}
+
+body{
+background-color:pink;
+}
+</style>
+
+
+</head>
+<body>
+
+<h1>Smt.Vimalabai Saka Education Trust</h1><br>
+<img src="logo.jpg" alt="error">
+<h2>WE ARE RUNNING THE COLLEGE SINCE 13 YEARS .<br>GIVING QUALITY EDUCATION FOR BBA & BCA</h2>
+<h3>S.V.S College Of BBA & BCA Ilkal.</h3>
+
+<h1>COURSES</h1>
+<ul>
+<li>BCA</li>
+<li>BBA</li>
+</ul>
+</body>
+</html>
